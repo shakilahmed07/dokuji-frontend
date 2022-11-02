@@ -1,0 +1,3 @@
+.blurEff:hover{
+    filter: blur(.8px);
+}
